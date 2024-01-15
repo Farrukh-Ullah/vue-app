@@ -1,0 +1,23 @@
+@import './base.css';
+.loader {
+    margin: auto;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.text-active {
+    color: blue !important;
+}
+
+.bg-active {
+    background-color: blue !important;
+}
+
+header {
+    margin-bottom: 120px;
+}
+
+.show {
+    display: block !important;
+}
