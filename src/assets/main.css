@@ -21,3 +21,7 @@ header {
 .show {
     display: block !important;
 }
+.bg-green-200 {
+    --tw-bg-opacity: 1 !important;
+    background-color: rgb(187 247 208 / var(--tw-bg-opacity)) !important;
+}
